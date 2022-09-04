@@ -1,0 +1,28 @@
+form{
+    width:200px;
+    margin-left:20px;
+}
+h1{
+    font-weight: bold;
+}
+input{
+    width:130%;
+}
+p{
+color:#ccc;}
+input, textarea{
+    outline:none;
+    font-size:18px;
+    padding:2px;
+    color:rgb(153, 152, 152);
+    border:1px solid #ccc;
+}
+button{
+    margin: 2px auto;
+    width:140px;
+    padding:5px 14px;
+    font-size:19px;
+    border:1px solid lightblue;
+    border-radius:5px;
+    background:#fff;
+}
